@@ -3,3 +3,5 @@ Welcome to learnRepo
 
 C
 C++
+JAVA
+Python
