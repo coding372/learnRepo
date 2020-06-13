@@ -6,6 +6,8 @@ C++
 JAVA
 Python
 
+C#
+Ruby
 
 
 Thank you :)
