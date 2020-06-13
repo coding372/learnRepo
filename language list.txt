@@ -6,7 +6,10 @@ C++
 JAVA
 Python
 
+C#
+Ruby
 
+Changes Done.
 
 Thank you :)
 
